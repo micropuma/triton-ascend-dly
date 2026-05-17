@@ -1,0 +1,6 @@
+export TRITON_BUILD_WITH_CCACHE=true
+export TRITON_BUILD_WITH_CLANG_LLD=true
+export TRITON_BUILD_PROTON=OFF
+export TRITON_APPEND_CMAKE_ARGS="-DTRITON_BUILD_UT=OFF"
+
+pip install -e python -v
