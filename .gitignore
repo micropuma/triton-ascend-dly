@@ -22,3 +22,4 @@ docs/sources/python-api/generated/
 # others
 .vscode/
 .cache/
+.venv/

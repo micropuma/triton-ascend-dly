@@ -1,8 +1,8 @@
 [submodule "third_party/triton"]
 	path = third_party/triton
-	url = https://github.com/triton-lang/triton.git
+	url = git@github.com:triton-lang/triton.git
 	depth = 1
 [submodule "third_party/ascendnpu-ir"]
 	path = third_party/ascendnpu-ir
-	url = https://gitcode.com/Ascend/AscendNPU-IR.git
+	url = git@gitcode.com:Ascend/AscendNPU-IR.git
 	depth = 1
